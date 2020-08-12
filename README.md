@@ -9,4 +9,18 @@ Digite o código no cmd:
 Para executar o projeto ionic:
 - ionic serve
 
+Para criar novos componentes(paginas) com extrutura ionic:
+- ionic generate page categorias
 
+## Dicas:
+Documentação Ionic completa:
+https://ionicframework.com/docs/
+
+Documentação Ionic CLI
+- https://ionicframework.com/docs/v3/cli/generate/
+
+Ionic Icones:
+- https://ionicons.com/
+
+Ionic Components:
+- https://ionicframework.com/docs/components
