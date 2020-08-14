@@ -12,6 +12,9 @@ Para executar o projeto ionic:
 Para criar novos componentes(paginas) com extrutura ionic:
 - ionic generate page categorias
 
+Caso queira abrir o VisualStudio Code via codigo digite o seguinte codigo:
+- code .
+
 ## Dicas:
 Documentação Ionic completa:
 https://ionicframework.com/docs/
