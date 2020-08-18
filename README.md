@@ -3,17 +3,17 @@ Primeiro projeto ionic
 
 Após baixar o projeto em sua maquina, é necessário baixar as dependencias antes de executa-lo.
 
-Digite o código no cmd:
-- npm install
+> Digite o código no cmd:
+ ``` npm install```
 
-Para executar o projeto ionic:
-- ionic serve
+> Para executar o projeto ionic:
+``` ionic serve ```
 
-Para criar novos componentes(paginas) com extrutura ionic:
-- ionic generate page categorias
+> Para criar novos componentes(paginas) com extrutura ionic:
+``` ionic generate page categorias ```
 
-Caso queira abrir o VisualStudio Code via codigo digite o seguinte codigo:
-- code .
+> Caso queira abrir o VisualStudio Code via codigo digite o seguinte codigo:
+``` code . ```
 
 ## Dicas:
 Documentação Ionic completa:
@@ -41,3 +41,8 @@ Ionic Components:
 > Para definir um item no localStorage com a chave e valor dados:
 ``` localStorage.setItem("chave", "valor") ```
 
+> Código para instalar biblioteca para manipular token jwt:
+```o npm install --save angular2-jwt ```
+
+> Caso ocorra erro de typescript (Cannot find module '@angular/http'): 
+```npm install @angular/http@latest. ```
