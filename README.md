@@ -8,6 +8,8 @@ Após baixar o projeto em sua maquina, é necessário baixar as dependencias ant
 
 > Para executar o projeto ionic:
 ``` ionic serve ```
+> Para executar o projeto ionic utilizando o cordova
+``` ionic cordova run browser ```
 
 > Para criar novos componentes(paginas) com extrutura ionic:
 ``` ionic generate page categorias ```
